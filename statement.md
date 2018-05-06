@@ -5,7 +5,7 @@ This C template lets you get started quickly with a simple one-page playground.
 ```C runnable
 #include <stdio.h>
 
-int main() {
+int main(int argc, char *argv[]) {
 	printf("Hello World!");
 }
 
