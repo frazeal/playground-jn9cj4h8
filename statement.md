@@ -1,4 +1,4 @@
-# Welcome!
+# Welcome to this journey through the C programming language!
 
 This C template lets you get started quickly with a simple one-page playground.
 
